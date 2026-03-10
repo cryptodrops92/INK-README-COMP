@@ -1,0 +1,20 @@
+# INKochain Smart Contract Examples
+
+Example smart contracts designed for experimentation and learning within the INKochain ecosystem.
+
+## Contents
+
+contracts/
+examples/
+tests/
+
+## Features
+
+- basic smart contracts
+- token contracts
+- security examples
+- testing patterns
+
+## Goals
+
+Help developers understand how smart contracts are structured and deployed.
