@@ -1,0 +1,21 @@
+# INKochain API Examples
+
+Examples demonstrating how to interact with blockchain nodes and APIs.
+
+## Topics
+
+- transaction queries
+- wallet balance retrieval
+- smart contract calls
+- node interaction
+
+## Languages
+
+- JavaScript
+- Python
+
+## Structure
+
+examples/
+scripts/
+docs/
