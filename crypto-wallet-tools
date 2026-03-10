@@ -1,0 +1,15 @@
+# Crypto Wallet Tools
+
+A collection of utilities for interacting with cryptocurrency wallets.
+
+## Features
+
+- wallet monitoring
+- transaction tracking
+- balance analysis
+
+## Structure
+
+tools/
+scripts/
+docs/
