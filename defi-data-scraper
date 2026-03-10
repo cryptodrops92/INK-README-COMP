@@ -1,0 +1,13 @@
+# DeFi Data Scraper
+
+Scripts designed to collect DeFi-related data from blockchain networks.
+
+## Data Collected
+
+- liquidity pool metrics
+- token price movements
+- protocol statistics
+
+## Languages
+
+Python and JavaScript.
