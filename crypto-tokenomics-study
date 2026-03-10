@@ -1,0 +1,29 @@
+# Crypto Tokenomics Study
+
+A research repository dedicated to analyzing token economics across blockchain projects.
+
+## Topics
+
+- Token supply models
+- Inflation vs deflation
+- Utility tokens
+- Governance tokens
+- Staking economics
+
+## Structure
+
+tokenomics/
+case-studies/
+charts/
+notes/
+
+## Goals
+
+This repository aims to study how different blockchain projects design and manage their token economies.
+
+## Research Focus
+
+- INKochain token design
+- DeFi token distribution
+- incentive structures
+- governance systems
