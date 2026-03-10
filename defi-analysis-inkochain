@@ -1,0 +1,27 @@
+# DeFi Analysis on INKochain
+
+Research and documentation about decentralized finance projects within the INKochain ecosystem.
+
+## Areas of Analysis
+
+- Lending protocols
+- Decentralized exchanges
+- Liquidity pools
+- Yield farming systems
+
+## Repository Structure
+
+analysis/
+protocols/
+research/
+comparisons/
+
+## Goals
+
+To analyze how DeFi protocols operate and evolve within the INKochain blockchain environment.
+
+## Future Work
+
+- protocol comparisons
+- risk analysis
+- security reviews
