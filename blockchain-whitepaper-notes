@@ -1,0 +1,24 @@
+# Blockchain Whitepaper Notes
+
+A collection of notes and summaries from major blockchain project whitepapers.
+
+## Purpose
+
+To analyze and summarize the key ideas behind blockchain protocols.
+
+## Topics
+
+- consensus mechanisms
+- smart contract platforms
+- blockchain scalability
+- distributed networks
+
+## Repository Structure
+
+whitepapers/
+notes/
+summaries/
+
+## Goals
+
+Build a knowledge base of important blockchain design concepts.
