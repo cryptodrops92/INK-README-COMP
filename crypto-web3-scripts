@@ -1,0 +1,21 @@
+# Crypto Web3 Scripts
+
+Collection of scripts used for interacting with blockchain networks.
+
+## Examples
+
+- wallet interaction scripts
+- transaction automation
+- blockchain queries
+- smart contract calls
+
+## Languages
+
+- JavaScript
+- Python
+
+## Structure
+
+scripts/
+examples/
+docs/
