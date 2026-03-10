@@ -1,0 +1,21 @@
+# INKochain DApp Starter
+
+Starter template for building decentralized applications on INKochain.
+
+## Features
+
+- Web3 integration
+- wallet connection
+- smart contract interaction
+- frontend example
+
+## Structure
+
+frontend/
+contracts/
+scripts/
+docs/
+
+## Goal
+
+Provide a simple starting point for developers building blockchain applications.
