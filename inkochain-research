@@ -1,0 +1,33 @@
+# INKochain Research
+
+This repository contains research and technical exploration related to the INKochain blockchain ecosystem.
+
+## Topics
+
+- Blockchain architecture
+- Network infrastructure
+- Decentralization models
+- Smart contract frameworks
+- Ecosystem development
+
+## Structure
+
+research/
+analysis/
+notes/
+resources/
+
+## Goals
+
+The goal of this repository is to document ongoing research about INKochain and explore potential applications of blockchain technology.
+
+## Planned Research
+
+- Consensus mechanism analysis
+- Token utility research
+- Ecosystem mapping
+- Developer tooling
+
+## License
+
+MIT
