@@ -1,0 +1,14 @@
+# DeFi Contract Patterns
+
+Examples of common smart contract patterns used in decentralized finance protocols.
+
+## Patterns Included
+
+- staking contracts
+- liquidity pool contracts
+- governance contracts
+- reward distribution contracts
+
+## Purpose
+
+To document reusable patterns used in DeFi development.
